@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1069445371874",
+    "project_id": "chat-app-148d7",
+    "storage_bucket": "chat-app-148d7.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1069445371874:android:65200ce550c959a14c0bbb",
+        "android_client_info": {
+          "package_name": "com.erenaskin.chat_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGUXJ7cvr8Bum-fJUSk9Q4KEMPrtKBEHo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
