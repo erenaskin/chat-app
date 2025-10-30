@@ -47,7 +47,7 @@ Uygulamayı yerel geliştirme ortamınızda çalıştırmak için aşağıdaki a
 3.  **FlutterFire Yapılandırması:**
     *   Flutter projenizi Firebase ile yapılandırın. Terminalde proje kök dizinindeyken aşağıdaki komutu çalıştırın:
   
-### 🚀 Kullanım
+## 🚀 Kullanım
 
 1.  Uygulama başladığında, Giriş Yap veya Kayıt Ol ekranı ile karşılaşacaksınız.
 2.  Email ve şifre kullanarak yeni bir hesap oluşturun veya mevcut hesabınızla giriş yapın.
